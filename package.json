@@ -1,0 +1,17 @@
+{
+    "dependencies": {
+        "@inquirer/prompts": "^7.5.3",
+        "fs": "^0.0.1-security",
+        "qr-image": "^3.2.0"
+    },
+    "name": "qr-image_generator",
+    "version": "1.0.0",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Achance",
+    "license": "ISC",
+    "description": "A project where you can create QR-codes for your favorite sites"
+}
